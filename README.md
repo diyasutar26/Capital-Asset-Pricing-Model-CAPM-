@@ -67,7 +67,7 @@ fig.show()
 ```
 CAPM-Project/
 │
-├── Capital_Asset_Pricing_Model_(CAPM).ipynb
+├── Capital_Asset_Pricing_Model(CAPM).ipynb
 └── README.md
 ```
 
